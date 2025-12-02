@@ -10,7 +10,7 @@ A fully responsive cafe website built with HTML, CSS, and JavaScript.
 - **Interactive Elements** including mobile navigation and form validation
 
 ## Live Demo
-[View Live Website](https://Josemafita-L.github.io/cafe-website/)
+[View Live Website](https://josemafita-l.github.io/Senthuron_cafe/)
 
 ## Project Structure
 SENTHURON-CAFE/
@@ -31,8 +31,6 @@ SENTHURON-CAFE/
 2. Open `cafe.html` in your browser
 3. That's it! No build process required.
 
-## Screenshots
-*(Note: You can add screenshots later by uploading images)*
 
 ## Credits
 - Images from Unsplash
